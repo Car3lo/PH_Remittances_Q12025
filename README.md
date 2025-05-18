@@ -9,7 +9,7 @@ This project showcases expertise in `Time Series Forecasting`, `Econometric Anal
 - The dataset (`remittance_ph.csv`) contains monthly remittance data from 2013 to 2025.
 - The goal is to analyze remittance trends, detect seasonality, and build a predictive model for 2025.
 - Various time series models are tested, including **Linear Trend**, **Quadratic Trend**, and **Trend + Seasonality**.
-- Codes are in `remittance_forecast.R`.
+- Codes are in `remittance.Rmd`. If you are viewing on `Github` click on `remittance.md`.
 
 ### Initial Trend and Seasonality Analysis
 Before modeling, remittance data is explored through visualization.

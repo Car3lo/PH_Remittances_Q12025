@@ -1,7 +1,7 @@
 # Remittance Forecasting
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-This project showcases skills in `Time Series Forecasting`, `Econometric Analysis`, `R Proficiency`, `Tidyverse`, `ggplot2`. 
+This project showcases skills in `Time Series Forecasting`, `Econometric Analysis`, `R`, `Tidyverse`, `ggplot2`. 
 
 The goal is to forecast `Q1 2025` remittances using trend and seasonality models while validating results through diagnostic tests.
 

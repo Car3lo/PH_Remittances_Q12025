@@ -46,7 +46,7 @@ From `AIC/BIC` and model performance, **Trend + Seasonality** yields the best re
 Using the best-performing model, monthly remittance forecasts for `Jan - Mar 2025` are generated.
 
 **Forecast Plot**
-![Forecast Plot](placeholder_image_url)
+![Forecast Plot](https://lh3.googleusercontent.com/pw/AP1GczPt6RFIT_ziIJT0eu-yWe1AIBtBHKYsVwUJfNunIFhklgFKdMSVGCOWU2kOj1NPTk2MSPvaxgqjUYLzCw36Kkx4hpqJo47p2TTgWmIBWh8EfNd8VhA0vK_VtjjAyMT3Jhc0zqa-BnsWSB2G7gjPacdf=w745-h532-s-no-gm?authuser=0)
 
 Key findings:
 - **January 2025 remittance estimate:** `$2,860M`
